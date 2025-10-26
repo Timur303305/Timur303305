@@ -2,7 +2,7 @@
 <h3 align="center">A passionate QA Automation Engineer</h3>
 <p align="left"> <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" /> </p>
 
-- 🔭 I’m currently working on **Trippl Inc**
+- 🔭 I’m currently working on **LerBee**
 
 - 🌱 I’m currently learning **Selenium, Playwright**
 
